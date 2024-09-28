@@ -7,7 +7,10 @@ node_modules
 *~
 *.swp
 
-
+# archives / datasets / data files
+*.vec
+*.zip
+*.txt
 
 env.sh
 # Byte-compiled / optimized / DLL files
